@@ -15,7 +15,6 @@
  - 技术博客：https://github.com/zxq-guren/first-things/issues 
  - Github：https://github.com/zxq-guren
  - 期望职位：Web前端工程师
- - 期望薪资：税前月薪6k~8k
  - 期望城市：深圳
 
 ---
