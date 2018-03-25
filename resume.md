@@ -11,9 +11,8 @@
 
  - 曾小强/男/1992 
  - 专科 
- - 工作年限：5年(前端1年)
- - 技术博客：https://github.com/zxq-guren/first-things/issues 
- - Github：https://github.com/zxq-guren
+ - 工作年限：前端1年
+ - Github：[github.com/zxq-guren](https://github.com/zxq-guren)
  - 期望职位：Web前端工程师
  - 期望城市：深圳
 
