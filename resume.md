@@ -42,11 +42,6 @@
 - 原项目来自慕课网相关课程, 本人使用 ES6 + 模块化组件重写
 
 
-####  商城首页   [项目预览](https://zbhgit.github.io/StaticPage-JD/dist/)   [项目代码](https://github.com/zbhgit/StaticPage-JD)
-- 技术栈: **HTML** **CSS** **Sass** **Gulp** **jQuery**
-- 描述: 此项目作品参考京东商城 UI，基本实现首页的交互功能，如首页轮播、商品轮播、Tab 选项卡、回到顶部、以及搜索框吸顶效果。作品使用 Sass 编写样式，并引入 jQuery 减少工作量，使用 gulp 完成代码合并，浏览器自动刷新等功能提高工作效率
-
-
 #### Note便利贴   [项目预览](http://18.222.33.142:3000/)   [项目代码](https://github.com/zbhgit/sticky-note)
 - 技术栈：**node.js** **Express** **mongoDB**  **webpack**
 - 使用js封装页面所需要各大组建，模块化开发方式，使用webpck+npm sctrip 使开发过程更加效率、方便，使用npm 进行前后端联调。
