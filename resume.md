@@ -34,10 +34,12 @@
 - 技术栈: **React**  **Redux**  **react-router4**  **webpack**  **ES6**  **Sass**  **flex**
 - 此项目个人独立完成，采用网易云音乐os客户端和web端的UI设计，完成首页，歌手页，排行榜，搜索页，歌手详情页，歌单详情页，播放器等页面。后端数据采用网易云音乐线上Api，较完整的实现各个功能。
 
-####  待办管理应用   [项目预览](https://zbhgit.github.io/MY-TODO/build/#/signin)   [项目代码](https://github.com/zbhgit/MY-TODO)
-- 技术栈: **React**  **Redux**  **react-router**  **webpack**  **ES6**  **Sass**  **flex**
-- 描述: 该项目是一个轻量级单页在线待办事项管理应用，支持注册登录，密码找回，支持增删改查，数据库同步等基本功能。后台主要使用 LeanCloud 进行数据存储，使用 webpack 构建前端代码 ，使用 GitHub 托管代码
-
+#### 用 React 实现的相册 2016 年 4 月
+• React, ES6 个人项目
+• 用 React 实现的电子相册, http://sstruct.github.io/playground
+• 图片出现在随机位置
+• 点击图片可以将其切换到中心位置
+• 原项目来自慕课网相关课程, 本人使用 ES6 + 模块化组件重写
 
 
 ####  商城首页   [项目预览](https://zbhgit.github.io/StaticPage-JD/dist/)   [项目代码](https://github.com/zbhgit/StaticPage-JD)
@@ -54,7 +56,7 @@
 
 
 #### 网易产品教育部首页     [预览](https://htmlpreview.github.io/?https://raw.githubusercontent.com/zxq-guren/wangyidazuoye/master/index.html)
- - 技术栈：*jquery** **HTML** **CSS** 
+ - 技术栈：**javascript** **HTML** **CSS** 
  - 通过`PS`切图切出设计稿中全部的静态图片
  - 按照设计稿还原页面视觉效果",
  - 整个页面的交互效果都通过原生`JavaScript`完成，具有简单轮播动画，滚动动画效果，通过`Cookie`存储用户信息，
