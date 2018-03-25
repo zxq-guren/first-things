@@ -34,7 +34,7 @@
 - 技术栈: **React**  **Redux**  **react-router4**  **webpack**  **ES6**  **Sass**  **flex**
 - 此项目个人独立完成，采用网易云音乐os客户端和web端的UI设计，完成首页，歌手页，排行榜，搜索页，歌手详情页，歌单详情页，播放器等页面。后端数据采用网易云音乐线上Api，较完整的实现各个功能。
 
-#### 用 React 实现的相册 2016 年 4 月
+#### 用 React 实现的相册 
 - 技术栈：**React**, **ES6** 
 - 用 React 实现的电子相册, http://sstruct.github.io/playground
 - 图片出现在随机位置
