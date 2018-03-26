@@ -21,7 +21,7 @@
 # 项目
 
 #### vue小商城
-- 技术栈 **vue全家桶** ** axios ** **es6** **eslint**
+- 技术栈 **vue全家桶** **axios** **es6** **eslint**
 - 首页，分类页，详情页，购物车，注册登录，用户中心； axios 请求数据 ，localStorage 本地存储。
 - 页面的数据通过 axios 模拟请求本地的 json 文件获得；
 - vue-router2 实现各页面的相互跳转；
